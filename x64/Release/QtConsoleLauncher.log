@@ -1,0 +1,10 @@
+﻿  pluginmain.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(1540): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(3056): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+pluginmain.cpp(18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  plugin.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(1540): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dbghelp.h(3056): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+     F:\workspace\lib\python\qtconsole_plugin\bin\x64\QtConsoleLauncher.lib 라이브러리 및 F:\workspace\lib\python\qtconsole_plugin\bin\x64\QtConsoleLauncher.exp 개체를 생성하고 있습니다.
+  QtConsoleLauncher.vcxproj -> F:\workspace\lib\python\qtconsole_plugin\bin\x64\QtConsoleLauncher.dp64
